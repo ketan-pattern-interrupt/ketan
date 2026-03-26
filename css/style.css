@@ -48,7 +48,7 @@ body {
 
 /* === ANIMATED TILED BACKGROUND === */
 .bg-tiled {
-  background-color: #000033;
+  background-color: #0a1a3f;
   background-image:
     repeating-linear-gradient(
       0deg,
@@ -229,7 +229,7 @@ body {
 /* === RETRO SECTION BOXES === */
 .retro-box {
   border: 3px ridge #c0c0c0;
-  background: linear-gradient(180deg, #000066 0%, #000033 100%);
+  background: linear-gradient(180deg, #0d2a6b 0%, #0a1a3f 100%);
   margin: 15px;
   box-shadow:
     inset 1px 1px 0 rgba(255,255,255,0.2),
@@ -238,7 +238,7 @@ body {
 }
 
 .retro-box-title {
-  background: linear-gradient(180deg, #000088, #0000cc);
+  background: linear-gradient(180deg, #0d3b8e, #1a5bc4);
   padding: 4px 8px;
   font-family: var(--silkscreen);
   font-size: 12px;
@@ -551,7 +551,7 @@ body {
 }
 
 .game-header {
-  background: linear-gradient(180deg, #000088, #0000cc);
+  background: linear-gradient(180deg, #0d3b8e, #1a5bc4);
   padding: 4px 8px;
   font-family: var(--silkscreen);
   font-size: 11px;
@@ -752,7 +752,7 @@ a:visited {
 }
 
 ::-webkit-scrollbar-track {
-  background: #000033;
+  background: #0a1a3f;
   border: 1px solid #333;
 }
 
